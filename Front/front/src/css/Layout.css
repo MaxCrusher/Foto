@@ -1,0 +1,24 @@
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: #F5F4EF
+
+}
+.footer{
+    position: absolute;
+    left: 0;
+    background-color: #F5F4EF;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+}
+.Logo{
+    font-size: 60px;
+    margin-top: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.footer1{
+    margin-left: 85%;
+    margin-top: 10px;
+}
